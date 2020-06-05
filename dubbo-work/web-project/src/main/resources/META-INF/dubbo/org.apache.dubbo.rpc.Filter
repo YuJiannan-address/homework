@@ -1,0 +1,2 @@
+transportIPFilter=com.lagou.web.dubbo.filter.TransportIPFilter
+tPMonitorFilter=com.lagou.web.dubbo.filter.TPMonitorFilter
